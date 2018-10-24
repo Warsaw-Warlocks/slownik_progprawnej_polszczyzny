@@ -1,0 +1,2 @@
+# slownik_progprawnej_polszczyzny
+Zbiór tłumaczeń często stosowanych niewłaściwie wtrąceń angielskojęzycznych do nomenklatury polskiej
